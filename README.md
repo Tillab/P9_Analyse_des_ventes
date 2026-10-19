@@ -11,5 +11,6 @@ Dans ce projet, j’ai analysé les données de vente d’une librairie en ligne
 L’analyse a fait ressortir des tendances de vente et des éléments relatifs aux comportements des clients susceptibles d’éclairer les stratégies marketing et commerciales de l’entreprise.
 
 **Compétences :** Python (pandas, Matplotlib, Seaborn), statistiques descriptives et inférentielles, coefficient de Gini.
+
 **Limite :** L’historique des ventes permet d’identifier des tendances et des associations, mais ne suffit pas nécessairement à expliquer les comportements des clients ni à prédire leurs achats futurs.
 
