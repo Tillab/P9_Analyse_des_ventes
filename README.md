@@ -13,4 +13,4 @@ L’analyse a fait ressortir des tendances de vente et des éléments relatifs a
 
 **Limite :** L’historique des ventes permet d’identifier des tendances et des associations, mais ne suffit pas nécessairement à expliquer les comportements des clients ni à prédire leurs achats futurs.
 
-<img src = presentation/P9_libraire_Gini.png height = 200 >
+<img src = presentation/P9_libraire_Gini_simple.png height = 200 >
